@@ -10,8 +10,7 @@
 
 ## Live Demo
 
-Check out the live version of the project: [Image Gallery](https://your-live-demo-link.com)  
-*(Replace with the actual link once deployed)*
+Check out the live version of the project: [Image Gallery](https://image-gallery-react-mu2.vercel.app/)
 
 ## Technologies Used
 
